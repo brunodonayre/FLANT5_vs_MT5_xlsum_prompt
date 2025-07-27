@@ -1,0 +1,6 @@
+transformers>=4.40.0
+torch>=2.1
+sentencepiece>=0.1.99
+evaluate>=0.4.1
+pandas>=2.0.0
+streamlit>=1.32  # Solo si usas interfaz local
