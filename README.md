@@ -1,4 +1,4 @@
-# FLANT5_vs_MT5_xlsum_prompt
+# FLANT5_vs_MT5_base_xlsum_prompt
 # 📰 Comparación de Modelos de Resumen de Noticias en Español
 
 Este proyecto evalúa y compara el desempeño de modelos de lenguaje basados en T5 y mT5 para la tarea de resumen automático de noticias políticas en español, utilizando métricas como ROUGE y BERTScore.
